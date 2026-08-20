@@ -1,0 +1,9 @@
+# Arquivo gerado pela mescla de documentos (alimentação de LLM)
+contexto-docs.txt
+
+# Arquivos temporários ou gerados automaticamente
+*.generated.*
+*.tmp.*
+
+# Dumps de conversa externa (referência mantida em projetos/*/referencia/)
+# dump_do _gemini.txt
