@@ -22,6 +22,7 @@ description:           # Required. Description in English (can be multi-line wit
 - **type**: Must be one of: `feat`, `fix`, `refactor`, `test`, `docs`, `style`, `chore`, `perf`, `ci`, `build`
 - **files**: Use `file:` for a single changed file, or `files:` (with list notation) for multiple changed files
 - **description**: Required. Describe what the commit changes. Use bullet points (`-`) to list multiple changes or details.
+- **Before committing or pushing, you must ask the user for permission.**
 - This convention matches the format used in ~/Documentos/com-quem-seraa/ and ensures consistency across projects.
 
 ### Examples
